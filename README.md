@@ -61,7 +61,7 @@ The Voice-Based Form Filling System is an AI-powered application that allows use
 Clone the repository:
 
 ```bash
-git clone <https://gitlab.siamcomputing.com/siamcomputing-training/cet/machine-learning/ml-interns/2025/kathija/automatic-form-filling-with-voice>
+git clone https://github.com/Farshiya-25/Automatic-Form-Filling-with-Voice
 ```
 
 Create virtual environment and activate:
